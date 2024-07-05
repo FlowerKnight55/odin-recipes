@@ -1,0 +1,13 @@
+body{
+    background-color: darkcyan;
+    color: white;
+    
+}
+
+.title-recipes{
+    font-size: 55px;
+}
+
+.list-recipes{
+    font-size: 30px;
+}
