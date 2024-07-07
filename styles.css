@@ -1,13 +1,30 @@
 body{
-    background-color: darkcyan;
+    background-color: white;
     color: white;
-    
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
+
 
 .title-recipes{
+    background-color: darkcyan;
     font-size: 55px;
+    text-align: center;
+    color: white;
+    padding: 6px;
+
 }
 
+
 .list-recipes{
+    padding-left: 800px;
     font-size: 30px;
+    color: white;
 }
+
+.section{
+    background-color: darkcyan;
+    padding-left: 16px;
+}
+  
